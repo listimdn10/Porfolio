@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Website - v1.0<br/>
+  <a href="https://listimdn10.github.io/Portfolio/" target="_blank">listimdn10.github.io/Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -13,42 +13,43 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/listimdn10/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/listimdn10/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/listimdn10/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/listimdn10/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+This is my personal portfolio repository.  
+Feel free to fork and modify it to create your own portfolio.  
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://listimdn10.github.io/Portfolio/" target="_blank">Portfolio Website</a> which features some of my research projects, publications, and technical skills.<br/>
 
-This project was built using these technologies.
+This project was built using these technologies:
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- React.js  
+- Node.js  
+- Express.js  
+- CSS3  
+- VsCode  
+- Vercel / GitHub Pages  
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📖 Multi-Page Layout**  
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with customizable colors**  
 
-**📱 Fully Responsive**
+**📱 Fully Responsive**  
 
 ## Getting Started
 
@@ -56,21 +57,9 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 ## 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install`
+1. Installation:  
+   ```bash
+   npm install
 
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## 📬 Contact
+<p align="center"> <a href="https://github.com/listimdn10" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/quynh-nhu-nguyen-dang-633382246" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:quynhnhu170218@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.facebook.com/nguyen.ang.nhu.2024" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
