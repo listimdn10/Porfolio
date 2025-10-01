@@ -18,73 +18,73 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are some of the research and security-related projects I’ve worked on.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          {/* RAPP */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="RAPP: Reasoning-Aware Adaptive Prompt Protection"
+              description="A system to safeguard LLM prompts against direct and indirect leakage. Features Adaptive Protection Agent (APA), Reasoning Privacy Analyzer (RPA), reversible PII masking, and reinforcement learning extensibility."
+              ghLink="https://github.com/listimdn10/RAPP.git"
             />
           </Col>
 
+          {/* RAG-SmartVuln */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="RAG-SmartVuln"
+              description="Enhancing smart contract vulnerability detection via Retrieval-Augmented LLMs. Built vulnerability knowledge base with Pinecone, fine-tuned Qwen and Deepseek models. Accepted at IEEE MAPR 2025."
+              ghLink="https://github.com/listimdn10/RAG-SmartVuln"
+              demoLink="https://doi.org/10.1109/MAPR67746.2025.11134018"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
-
+          {/* AgriCarbonDEX */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="AgriCarbonDEX"
+              description="A carbon credit & environmental data trading platform powered by blockchain and LLM agents. Includes ERC-721/20 tokens, DID traceability, multi-agent reasoning, and ESG trading bots."
+              ghLink="https://github.com/AgriCarbonDEX-team"
             />
           </Col>
 
+          {/* Multi-Agent Vulnerability Detection */}
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Multi-Agent Vulnerability Detection"
+              description="Four-agent architecture coordinated with CrewAI: Fetch, RAG, Parser, and Fusion agents. Combines Neo4j KG, GATv2 embeddings, CodeBERT, and MiniLM for smart contract vulnerability detection."
+              ghLink="https://github.com/username"
+            />
+          </Col>
+
+          {/* Fuzzing with Agentic AI */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Fuzzing Smart Contracts with Agentic AI"
+              description="Applied TextCNN and GATv2 on DappScan dataset. Integrated Multi-LLM Agents to generate fuzzing seeds. Enhanced FinanceFuzz() with agentic workflows to improve coverage and consistency."
+              ghLink="https://github.com/username"
             />
           </Col>
 
+          {/* CRYSTALS-Dilithium */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="CRYSTALS-Dilithium for Digital Government"
+              description="Implemented post-quantum CRYSTALS-Dilithium digital signature for government documents. Built CA system, PDF signing with QR codes, secure storage in MongoDB GridFS, and CLI/GUI interfaces."
+              ghLink="https://github.com/listimdn10/CryptoProject"
             />
           </Col>
         </Row>
