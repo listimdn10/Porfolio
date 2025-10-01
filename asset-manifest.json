@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.f8ed7d92.css",
+    "main.js": "/Porfolio/static/js/main.e5bfad6a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Porfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Porfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.png": "/Porfolio/static/media/about.e5b86a807a43d8ab35f8.png",
+    "static/media/leaf.png": "/Porfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Porfolio/static/media/emotion.e8b33339584a47c82033.png",
+    "static/media/CV_NguyenDangQuynhNhu.pdf": "/Porfolio/static/media/CV_NguyenDangQuynhNhu.a2092e2231d14fc6367c.pdf",
+    "static/media/blog.png": "/Porfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Porfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/suicide.png": "/Porfolio/static/media/suicide.264dae78d39f93cbd84c.png",
+    "static/media/chatify.png": "/Porfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/woman.png": "/Porfolio/static/media/woman.0f20e9d5b46d772f5dfe.png",
+    "static/media/home-bg.jpg": "/Porfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Porfolio/static/media/logo.0473be62dba8709d2bf3.png",
+    "static/media/pre.svg": "/Porfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Porfolio/index.html",
+    "main.f8ed7d92.css.map": "/Porfolio/static/css/main.f8ed7d92.css.map",
+    "main.e5bfad6a.js.map": "/Porfolio/static/js/main.e5bfad6a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Porfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Porfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ed7d92.css",
+    "static/js/main.e5bfad6a.js"
+  ]
+}
